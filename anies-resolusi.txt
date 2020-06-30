@@ -2,3 +2,5 @@ ANIES Resolusi
 - harus bisa menyelesaikan program SIPerpustakaan.
 - menyelesaikan program KP
 - menyelesaikan program e-Secretary Mandiri
+- Bisa menguasai laravel
+- Les SysAdmin di IDN Network Semarang
