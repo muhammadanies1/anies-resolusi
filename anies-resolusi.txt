@@ -3,4 +3,4 @@ ANIES Resolusi
 - menyelesaikan program KP
 - menyelesaikan program e-Secretary Mandiri
 - Bisa menguasai laravel
-- Les SysAdmin di IDN Network Semarang
+- Belajar dari yutub saja
